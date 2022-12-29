@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thechehaja
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity/C# 
-- 💞️ I’m looking to collaborate on small indie game projects
+- 👀 I’m interested in Fullstack Developement
+- 🌱 I’m currently learning .NET MAUI Development 
+- 💞️ I’m looking for an internship where I could expand my knowledge
 - 📫 How to reach me - email me thechehaja@gmail.com or emir.mehmedcehajic@gmail.com
 
 <!---
