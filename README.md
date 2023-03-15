@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thechehaja
-- 👀 I’m interested in Fullstack Developement
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning .NET MAUI Development 
 - 📫 How to reach me - email me thechehaja@gmail.com or emir.mehmedcehajic@gmail.com
 
