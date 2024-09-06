@@ -3,7 +3,7 @@
 ## About Me
 - 👀 **Interests:** Fullstack Development
 - 🌱 **Currently Learning:** .NET MAUI Development 
-- 📫 **Contact Me:** [thechehaja@gmail.com](mailto:thechehaja@gmail.com) | [emir.mehmedcehajic@gmail.com](mailto:emir.mehmedcehajic@gmail.com)
+- 📫 **Contact Me:** [emirmehmedcehajic.dev@gmail.com](mailto:emirmehmedcehajic.dev@gmail.com)
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thechehaja&theme=dark&hide_border=true)](https://git.io/streak-stats)
